@@ -1,4 +1,4 @@
-## Random numbers generator. Based on bulgarian lottery game 6/49.
+## Random numbers generator. Based on Bulgarian lottery game 6/49.
 
 <img src="img/Numbers.PNG" width="600" height="500">
 
